@@ -49,9 +49,6 @@ matplotlib
 seaborn
 ```
 
-## Citation
-
-If referencing this work, please cite the accompanying dissertation:
 
 Manohar Ganesh Kulkarni (2026). *Modelling Temporal Drift in Music Preferences using Emotion-Aware Sequential
 Representation Learning*. MSc Thesis.
